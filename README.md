@@ -109,7 +109,6 @@ Class: TK-46-GABUNGAN
 
 ---
 
-## Notes
 
 ## Notes
 
